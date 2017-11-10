@@ -1,0 +1,4 @@
+C:\Users\Niels\Google Drive\School\P5\OI\Unity holo\HoloLens_POC\App\GeneratedProjects\UWP\Assembly-CSharp\Assembly-CSharp.csproj;x86
+C:\Users\Niels\Google Drive\School\P5\OI\Unity holo\HoloLens_POC\App\GeneratedProjects\UWP\Assembly-CSharp-firstpass\Assembly-CSharp-firstpass.csproj;x86
+C:\Users\Niels\Google Drive\School\P5\OI\Unity holo\HoloLens_POC\App\GeneratedProjects\UWP\Assembly-CSharp-firstpass\Assembly-CSharp-firstpass.csproj;x86
+C:\Users\Niels\Google Drive\School\P5\OI\Unity holo\HoloLens_POC\App\HoloLens_POC\HoloLens_POC.csproj;x86
